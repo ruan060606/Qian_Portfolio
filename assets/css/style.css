@@ -18,6 +18,9 @@ html, body {
 	background-color: #3A4DF9;
 	height: 20vh;
 }
+.transparentBackground {
+	height: 20vh;
+}
 footer {
 	position: absolute;
 	bottom: 0px;
