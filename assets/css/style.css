@@ -12,11 +12,20 @@ html, body {
 .infoHeader2 {
 	text-align: center;
 	padding-top: 10px;
-	color: #3A4DF9;
+	color: black;
+}
+.aboutImage {
+	float: left;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	width: 200px;
 }
 .background {
-	background-color: #3A4DF9;
-	height: 20vh;
+	background-color: #212529;
+	padding: 40px 30px 40px 30px;
+}
+section p {
+	color: white;
 }
 .transparentBackground {
 	height: 20vh;
@@ -29,7 +38,5 @@ footer {
 	background-color: black;
 	color: white;
 	text-align: center;
-	height: 60px;
-	padding:20px;
-
+	padding: 20px;
 }
